@@ -1,0 +1,9 @@
+{
+  "posts": {
+    "Id": 1,
+    "EmployeeName": "",
+    "Address": "",
+    "Salary": "",
+    "Location": ""
+  }
+}
